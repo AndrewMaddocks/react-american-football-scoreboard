@@ -6,7 +6,11 @@
 .scoreboard {
   width: 58%;
   margin: 10rem auto;
-  background-color: #0b5402;
+  background-image: url(./images.jpeg);
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+
   color: white;
   border-radius: 0.5rem;
   margin-top: 10rem;
